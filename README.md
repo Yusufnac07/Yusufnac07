@@ -59,14 +59,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADINIZ&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yusufnac07&theme=radical&no-frame=true&margin-w=15" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&theme=radical" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusufnac07&show_icons=true&theme=radical" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufnac07&layout=compact&theme=radical" height="180" alt="languages" />
 </div>
 
 <br>
